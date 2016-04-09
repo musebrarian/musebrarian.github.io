@@ -1,30 +1,25 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<h1> Richard J. Urban, Ph.D.</h1>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<!-- <li><a href="/blog">Inherent Vice</a></li> -->
-	    		</ul>
-			</nav>
-			<div class="container">
+<html>
 
-			{{ content }}
+  {% include head.html %}
 
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:richardjurban@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/musebrarian">github.com/musebrarian</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+  <body>
+
+    {% include header.html %}
+
+    <!-- content start -->
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    <!-- content end -->
+
+    {% include footer.html %}
+    {% include javascripts.html %}
+
+  </body>
+
+</html>
