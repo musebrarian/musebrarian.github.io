@@ -6,16 +6,16 @@ gems:
 # Site settings
 title: "Richard J. Urban"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Libraries, Archives, Museums, and the Humanities
 
-email: a-mail@mail.mail
+email: richardjurban@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Richard J. Urban'
+author: 'Richard J. Urban'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
