@@ -1,7 +1,7 @@
 # Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
+#gems:
+#  - jemoji
+#  - jekyll-paginate
 
 # Site settings
 title: "Richard J. Urban"
