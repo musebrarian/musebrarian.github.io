@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Richard J. Urban"
 description: > # this means to ignore newlines until "email:"
-   <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-folder-open" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i>
+   <i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-folder-open" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i><br />
    Libraries, Archives, Museums, and the Humanities
 
 email: richardjurban@gmail.com
