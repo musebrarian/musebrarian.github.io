@@ -3,19 +3,18 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-#Richard J. Urban, Ph.D.
- richardjurban@gmail.com http://richardjurban.net
+# Richard J. Urban, Ph.D.
+richardjurban@gmail.com
+http://richardjurban.net
 
 ## Education
-
 - PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
 - MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
 - MA History with Certificate in Museum Studies, University of Delaware, May 1997
 - BA History with Honors, Pennsylvania State University, May 1993
 
 ## Professional Experience
-
-- _Assistant Professor, Florida State University, 2012–present_
+- _[Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present_
 - _Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009_
 - _Project Coordinator, Metadata for You & Me: A Training Program for Shareable Metadata, University of Illinois Library, September 2006- February 2009_
 - _Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006 _
@@ -27,7 +26,6 @@ permalink: /experience/
 - _Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993_
 
 ## Selected Publications
-
 **Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web. 
 
 Garcia, M. M., Messner, K., **Urban, R. J.,** Tripodis, S., Hancock, M. E., & Colegrove, T. (2014). 3D Technologies: New tools for information scientists to engage, educate and empower communities. _Proceedings of the American Society for Information Science and Technology_, _51_(1), 1–5. 
@@ -49,8 +47,7 @@ Renear, A.H., Wickett, K.M., **Urban, R.J.**, Dubin, D., & Shreeves, S.L. (2008)
 Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262.
 
 ## Selected Teaching
-
-_Florida State University, School of Information (2012 – present)_
+###_Florida State University, School of Information (2012 – present)_
 
 - Professor – LIS4351 User Experience Design (2015)
 - Professor – LIS5275 Usability Analysis (2014 – 2015)
@@ -59,7 +56,6 @@ _Florida State University, School of Information (2012 – present)_
 - Professor – LIS5786 Information Architecture (2013 – 2016)
 
 ## Professional Service
-
 - Member, International Standardized Rights Statements Working Group (2014-2016)
 - Consultant, Digital Public Library of America, DPLA Metadata Application Profile 3.0 (2013)
 - IMLS Grant Review Panel (2004, 2009, 2010)
