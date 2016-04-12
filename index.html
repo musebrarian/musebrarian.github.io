@@ -16,6 +16,8 @@ layout: default
     <h2 class="blog-description"><i class="fa fa-book" aria-hidden="true"></i> <i class="fa fa-folder-open" aria-hidden="true"></i> <i class="fa fa-university" aria-hidden="true"></i> <i class="fa fa-users" aria-hidden="true"></i></h2>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
+      <!-- <a href="/about/">About &nbsp;</a> -->
+      <p><a href="/experience/">Experience</a></p>
       {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
@@ -24,9 +26,6 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <!-- <a href="/about/">About &nbsp;</a>
-      <i class="fa fa-circle" aria-hidden="true"></i>&nbsp; -->
-      <p><a href="/experience/">Experience</a></p>
     </div>
 </header>
 
