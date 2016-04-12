@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
-# Richard J. Urban, Ph.D.
+## Richard J. Urban, Ph.D.
 richardjurban@gmail.com
 http://richardjurban.net
 
