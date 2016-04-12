@@ -7,11 +7,13 @@ permalink: /experience/
 richardjurban@gmail.com
 
 http://richardjurban.net
+
 ## Education
 - PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
 - MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
 - MA History with Certificate in Museum Studies, University of Delaware, May 1997
 - BA History with Honors, Pennsylvania State University, May 1993
+
 ## Professional Experience
 - _[Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present_
 - _Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009_
@@ -23,6 +25,7 @@ http://richardjurban.net
 - _Assistant Curator, Historical Society of Delaware, Wilmington, DE, May 1997- March 2000_
 - _Library Technician, Smithsonian Institution Libraries, Washington, D.C. , November 1993 – June 1995 _
 - _Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993_
+
 ## Selected Publications
 **Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web. 
 
@@ -43,6 +46,7 @@ Renear, A.H., Wickett, K.M., **Urban, R.J.**, Dubin, D., & Shreeves, S.L. (2008)
 **Urban, R.**, Marty, P. & Twidale, M. (2007). A Second Life for Your Museum: 3D Multi-User Virtual Environments and Museums. In J. Trant and D. Bearman (eds_.). _Proceedings of the Museums and the Web: Toronto, CA_: Archives & Museum Informatics.
 
 Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262.
+
 ## Selected Teaching
 ###_Florida State University, School of Information (2012 – present)_
 - Professor – LIS4351 User Experience Design (2015)
@@ -50,6 +54,7 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 - Professor – LIS5590 Museum Informatics (2012 – 2015)
 - Professor – LIS5703 Information Organization (2012, 2014, 2016)
 - Professor – LIS5786 Information Architecture (2013 – 2016)
+
 ## Professional Service
 - Member, International Standardized Rights Statements Working Group (2014-2016)
 - Consultant, Digital Public Library of America, DPLA Metadata Application Profile 3.0 (2013)
