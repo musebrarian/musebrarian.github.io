@@ -17,7 +17,9 @@ layout: default
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       <!-- <a href="/about/">About &nbsp;</a> -->
-      <p><a href="/experience/">Experience</a></p>
+      <p>
+        <a href="/experience/">Experience</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="rjruabn-CV.pdf">CV</a>
+      </p>
       {% for social in site.social %}
         {% if social.url %}
             <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
