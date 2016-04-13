@@ -14,16 +14,16 @@ http://richardjurban.net
 - BA History with Honors, Pennsylvania State University, May 1993
 
 ## Professional Experience
-- _[Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present_
-- _Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009_
-- _Project Coordinator, Metadata for You & Me: A Training Program for Shareable Metadata, University of Illinois Library, September 2006- February 2009_
-- _Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006 _
-- _Graduate Research Assistant, ECHO Depository Project, University of Illinois at Urbana-Champaign, June 2005-August 2006_
-- _Operations Coordinator, Collaborative Digitization Program, Denver, CO, March 2002-June 2005_
-- _Web Site Coordinator, Historical Society of Pennsylvania, Philadelphia, PA, March 2000- March 2002_
-- _Assistant Curator, Historical Society of Delaware, Wilmington, DE, May 1997- March 2000_
-- _Library Technician, Smithsonian Institution Libraries, Washington, D.C. , November 1993 – June 1995 _
-- _Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993_
+- [Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
+- Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009
+- Project Coordinator, Metadata for You & Me: A Training Program for Shareable Metadata, University of Illinois Library, September 2006- February 2009
+- Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006
+- Graduate Research Assistant, ECHO Depository Project, University of Illinois at Urbana-Champaign, June 2005-August 2006
+- Operations Coordinator, Collaborative Digitization Program, Denver, CO, March 2002-June 2005
+- Web Site Coordinator, Historical Society of Pennsylvania, Philadelphia, PA, March 2000- March 2002
+- Assistant Curator, Historical Society of Delaware, Wilmington, DE, May 1997- March 2000
+- Library Technician, Smithsonian Institution Libraries, Washington, D.C. , November 1993 – June 1995 
+- Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993
 
 ## Selected Publications
 **Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web. 
@@ -47,7 +47,9 @@ Renear, A.H., Wickett, K.M., **Urban, R.J.**, Dubin, D., & Shreeves, S.L. (2008)
 Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262.
 
 ## Selected Teaching
-### _Florida State University, School of Information (2012 – present)_
+
+### Florida State University, School of Information (2012 – present)
+
 - Professor – LIS4351 User Experience Design (2015)
 - Professor – LIS5275 Usability Analysis (2014 – 2015)
 - Professor – LIS5590 Museum Informatics (2012 – 2015)
