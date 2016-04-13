@@ -17,16 +17,25 @@ MA History with Certificate in Museum Studies, University of Delaware, May 1997
 BA History with Honors, Pennsylvania State University, May 1993
 
 ## Professional Experience
-- [Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
-- Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009
-- Project Coordinator, Metadata for You & Me: A Training Program for Shareable Metadata, University of Illinois Library, September 2006- February 2009
-- Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006
-- Graduate Research Assistant, ECHO Depository Project, University of Illinois at Urbana-Champaign, June 2005-August 2006
-- Operations Coordinator, Collaborative Digitization Program, Denver, CO, March 2002-June 2005
-- Web Site Coordinator, Historical Society of Pennsylvania, Philadelphia, PA, March 2000- March 2002
-- Assistant Curator, Historical Society of Delaware, Wilmington, DE, May 1997- March 2000
-- Library Technician, Smithsonian Institution Libraries, Washington, D.C. , November 1993 – June 1995 
-- Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993
+[Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
+
+Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009
+
+Project Coordinator, Metadata for You & Me: A Training Program for Shareable Metadata, University of Illinois Library, September 2006- February 2009
+
+Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006
+
+Graduate Research Assistant, ECHO Depository Project, University of Illinois at Urbana-Champaign, June 2005-August 2006
+
+Operations Coordinator, Collaborative Digitization Program, Denver, CO, March 2002-June 2005
+
+Web Site Coordinator, Historical Society of Pennsylvania, Philadelphia, PA, March 2000- March 2002
+
+Assistant Curator, Historical Society of Delaware, Wilmington, DE, May 1997- March 2000
+
+Library Technician, Smithsonian Institution Libraries, Washington, D.C. , November 1993 – June 1995 
+
+Junior Fellow, Library of Congress, Manuscripts Division, Washington, D.C., June 1993 – August 1993
 
 ## Selected Publications
 **Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web. 
@@ -53,16 +62,25 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 ### Florida State University, School of Information (2012 – present)
 
-- Professor – LIS4351 User Experience Design (2015)
-- Professor – LIS5275 Usability Analysis (2014 – 2015)
-- Professor – LIS5590 Museum Informatics (2012 – 2015)
-- Professor – LIS5703 Information Organization (2012, 2014, 2016)
-- Professor – LIS5786 Information Architecture (2013 – 2016)
+Professor – LIS4351 User Experience Design (2015)
+
+Professor – LIS5275 Usability Analysis (2014 – 2015)
+
+Professor – LIS5590 Museum Informatics (2012 – 2015)
+
+Professor – LIS5703 Information Organization (2012, 2014, 2016)
+
+Professor – LIS5786 Information Architecture (2013 – 2016)
 
 ## Professional Service
-- Member, International Standardized Rights Statements Working Group (2014-2016)
-- Consultant, Digital Public Library of America, DPLA Metadata Application Profile 3.0 (2013)
-- IMLS Grant Review Panel (2004, 2009, 2010)
-- NEH/IMLS Digital Initiatives Grant Review Panel (2007)
-- NISO Standards Committee. Z39.87 _Technical Metadata for Still Images_ (2004-2005)
-- Museum Computer Network (Board Member 2004-2010)
+Member, International Standardized Rights Statements Working Group (2014-2016)
+
+Consultant, Digital Public Library of America, DPLA Metadata Application Profile 3.0 (2013)
+
+IMLS Grant Review Panel (2004, 2009, 2010)
+
+NEH/IMLS Digital Initiatives Grant Review Panel (2007)
+
+NISO Standards Committee. Z39.87 _Technical Metadata for Still Images_ (2004-2005)
+
+Museum Computer Network (Board Member 2004-2010)
