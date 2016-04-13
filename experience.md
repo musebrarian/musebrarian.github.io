@@ -8,10 +8,13 @@ richardjurban@gmail.com <br />
 http://richardjurban.net
 
 ## Education
-- PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
-- MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
-- MA History with Certificate in Museum Studies, University of Delaware, May 1997
-- BA History with Honors, Pennsylvania State University, May 1993
+PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
+
+MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
+
+MA History with Certificate in Museum Studies, University of Delaware, May 1997
+
+BA History with Honors, Pennsylvania State University, May 1993
 
 ## Professional Experience
 - [Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
