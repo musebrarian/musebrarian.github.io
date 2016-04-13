@@ -4,8 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 ## Richard J. Urban, Ph.D.
-richardjurban@gmail.com
-
+richardjurban@gmail.com <br />
 http://richardjurban.net
 
 ## Education
@@ -48,7 +47,7 @@ Renear, A.H., Wickett, K.M., **Urban, R.J.**, Dubin, D., & Shreeves, S.L. (2008)
 Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262.
 
 ## Selected Teaching
-###_Florida State University, School of Information (2012 – present)_
+### _Florida State University, School of Information (2012 – present)_
 - Professor – LIS4351 User Experience Design (2015)
 - Professor – LIS5275 Usability Analysis (2014 – 2015)
 - Professor – LIS5590 Museum Informatics (2012 – 2015)
