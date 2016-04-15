@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Richard J. Urban"
 description: > # this means to ignore newlines until "email:"
-   Libraries, Archives, Museums, and Humanities – Digitally
+   Libraries, Archives, Museums, and the Humanities – Digitally
 
 email: richardjurban@gmail.com
 #blog logo
@@ -44,6 +44,20 @@ social:
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
+
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/richardurban
+    desc:	Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	slideshare
+    url:	http://slideshare.com/musebrarian
+    desc:	See my presentations on Slideshare
+    share_url:
+    share_title:
+    share_link:
 
   - icon:	github
     url:	https://github.com/musebrarian
