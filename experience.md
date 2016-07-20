@@ -62,18 +62,14 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 ### Florida State University, School of Information (2012 – present)
 
-Professor – LIS4351 User Experience Design (2015)
-
-Professor – LIS5275 Usability Analysis (2014 – 2015)
-
-Professor – LIS5590 Museum Informatics (2012 – 2015)
-
-Professor – LIS5703 Information Organization (2012, 2014, 2016)
-
-Professor – LIS5786 Information Architecture (2013 – 2016)
+ – [LIS4351 User Experience Design (2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis4351-ux/)
+ – [LIS5275 Usability Analysis (2014 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis-5275/)
+ – [LIS5590 Museum Informatics (2012 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5590/)
+ – [LIS5703 Information Organization (2012, 2014, 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5703/)
+– [LIS5786 Information Architecture (2013 – 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5786-information-architecture/)
 
 ## Professional Service
-Member, International Standardized Rights Statements Working Group (2014-2016) http://rightsstatements.org
+Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
 
 Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
 
