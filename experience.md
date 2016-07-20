@@ -63,9 +63,13 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 ### Florida State University, School of Information (2012 – present)
 
  – [LIS4351 User Experience Design (2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis4351-ux/)
+
  – [LIS5275 Usability Analysis (2014 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis-5275/)
+
  – [LIS5590 Museum Informatics (2012 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5590/)
+
  – [LIS5703 Information Organization (2012, 2014, 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5703/)
+
 – [LIS5786 Information Architecture (2013 – 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5786-information-architecture/)
 
 ## Professional Service
