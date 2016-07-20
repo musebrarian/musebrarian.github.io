@@ -38,25 +38,25 @@ Library Technician, [Smithsonian Institution Libraries](http://sil.si.edu), Wash
 [Junior Fellow, Library of Congress](http://www.loc.gov/hr/jrfellows/), Manuscripts Division, Washington, D.C., June 1993 – August 1993
 
 ## Selected Publications
-**Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web.  [Paper](http://mw2016.museumsandtheweb.com/paper/collections-cubed-into-the-third-dimension/) | [Slides](http://www.slideshare.net/musebrarian/collections-cubed-into-the-third-dimension)
+**Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web.  [Paper](http://mw2016.museumsandtheweb.com/paper/collections-cubed-into-the-third-dimension/) \| [Slides](http://www.slideshare.net/musebrarian/collections-cubed-into-the-third-dimension)
 
 Garcia, M. M., Messner, K., **Urban, R. J.,** Tripodis, S., Hancock, M. E., & Colegrove, T. (2014). 3D Technologies: New tools for information scientists to engage, educate and empower communities. _Proceedings of the American Society for Information Science and Technology_, _51_(1), 1–5. [Slides](http://www.slideshare.net/musebrarian/digital-libraries-in-the-third-dimension)
 
-Lee, D. J., Witt, M., **Urban, R.J.**, & Plale, B. (2014). _A Metadata Application Profile for ORCID_. Presented at the 4th Plenary meeting of the Research Data Alliance, September 22-25, 2014, Amsterdam, Netherlands.
+Lee, D. J., Witt, M., **Urban, R.J.**, & Plale, B. (2014). _A Metadata Application Profile for ORCID_. Presented at the 4th Plenary meeting of the Research Data Alliance, September 22-25, 2014, Amsterdam, Netherlands. [Paper](https://www.rd-alliance.org/metadata-application-profile-orcid.html)
 
 **Urban, R. J.,** Coleman, L.-E., & Marty, P. F. (2014). Libraries, archives, and museums: Connecting educational communities and cultures. _Proceedings of the American Society for Information Science and Technology_, _51_(1), 1–3. 
 
-**Urban, R.J.** (2014) The Dublin Core 1:1 Principle in the Age of Linked Data. _Proceedings of the International Conference on Dublin Core and Metadata Applications_, Austin, TX, October 8 – 11, 2014.[Paper](http://dcpapers.dublincore.org/pubs/article/view/3707) | [Slides](http://www.slideshare.net/musebrarian/the-dublin-core-11-principle-in-the-age-of-linked-data)
+**Urban, R.J.** (2014) The Dublin Core 1:1 Principle in the Age of Linked Data. _Proceedings of the International Conference on Dublin Core and Metadata Applications_, Austin, TX, October 8 – 11, 2014.[Paper](http://dcpapers.dublincore.org/pubs/article/view/3707) \| [Slides](http://www.slideshare.net/musebrarian/the-dublin-core-11-principle-in-the-age-of-linked-data)
 
 **Urban, R. J.** (2013). Representation patterns for cultural heritage resources. _Proceedings of the American Society for Information Science and Technology_, _50_(1), 1–4. doi:10.1002/meet.14505001123 [Open Access: DigiNole](http://purl.flvc.org/fsu/fd/FSU_migr_slis_faculty_publications-0015)
 
-**Urban, R.J**, Adamcyck, P., & Twidale, M.B. (2010). Designing and Developing a Collections Dashboard. In J. Trant and D. Bearman (eds). _Museums and the Web 2010: Proceedings_. Toronto: CA Archives & Museum Informatics. [Paper](http://www.museumsandtheweb.com/mw2010/papers/urban/urban.html) | [Slides](http://www.slideshare.net/musebrarian/building-and-evaluating-collections-dashboards)
+**Urban, R.J**, Adamcyck, P., & Twidale, M.B. (2010). Designing and Developing a Collections Dashboard. In J. Trant and D. Bearman (eds). _Museums and the Web 2010: Proceedings_. Toronto: CA Archives & Museum Informatics. [Paper](http://www.museumsandtheweb.com/mw2010/papers/urban/urban.html) \| [Slides](http://www.slideshare.net/musebrarian/building-and-evaluating-collections-dashboards)
 
 Renear, A.H., Wickett, K.M., **Urban, R.J.**, Dubin, D., & Shreeves, S.L. (2008). Collection/Item Metadata Relationships. In _Proceedings of the International Conference on Dublin Core and Metadata Applications_, Berlin, Germany, September 22-26, 2008. [Paper](http://dcpapers.dublincore.org/pubs/article/view/921)
 
 **Urban, R.**, Marty, P. & Twidale, M. (2007). A Second Life for Your Museum: 3D Multi-User Virtual Environments and Museums. In J. Trant and D. Bearman (eds_.). _Proceedings of the Museums and the Web: Toronto, CA_: Archives & Museum Informatics. [Paper](http://www.museumsandtheweb.com/mw2007/papers/urban/urban.html)
 
-Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262.
+Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a collaboration success story. _Library Hi Tech,_ 22, 254-262. [Paper](http://www.emeraldinsight.com/doi/abs/10.1108/07378830410560044)
 
 ## Selected Teaching
 
