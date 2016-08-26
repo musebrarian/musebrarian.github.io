@@ -7,14 +7,6 @@ permalink: /experience/
 richardjurban@gmail.com <br />
 http://richardjurban.net
 
-## Education
-PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
-
-MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
-
-MA History with Certificate in Museum Studies, University of Delaware, May 1997
-
-BA History with Honors, Pennsylvania State University, May 1993
 
 ## Professional Experience
 [Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
@@ -72,7 +64,7 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 – [LIS5786 Information Architecture (2013 – 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5786-information-architecture/)
 
-## Professional Service
+## Community Collaborations
 Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
 
 Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
@@ -84,3 +76,12 @@ Consultant, Digital Public Library of America, [DPLA Metadata Application Profil
 NISO Standards Committee. [Z39.87 _Technical Metadata for Still Images_ ](http://www.loc.gov/standards/mix/)(2004-2005)
 
 [Museum Computer Network](http://mcn.edu/) (Board Member 2004-2010)
+
+## Education
+PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
+
+MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
+
+MA History with Certificate in Museum Studies, University of Delaware, May 1997
+
+BA History with Honors, Pennsylvania State University, May 1993
