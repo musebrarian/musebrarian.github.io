@@ -9,7 +9,9 @@ http://richardjurban.net
 
 
 ## Professional Experience
-[Assistant Professor](http://chi.cci.fsu.edu), Florida State University, 2012–present
+Digital Asset Manager & Strategist, [Corning Museum of Glass](http://www.cmog.org) December 2016-present
+
+Assistant Professor, Florida State University, December 2012–2016
 
 Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009
 
