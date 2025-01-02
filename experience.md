@@ -61,23 +61,23 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 ### Florida State University, School of Information
 
-	- LIS4351 User Experience Design
-	– LIS5275 Usability Analysis
-	– LIS5590 Museum Informatic 
-	– LIS5703 Information Organization 
-	– LIS5786 Information Architecture 
+- LIS4351 User Experience Design
+– LIS5275 Usability Analysis
+– LIS5590 Museum Informatic 
+– LIS5703 Information Organization 
+– LIS5786 Information Architecture 
 
 ## Community Collaborations
-	- President, [Corning-Painted Post Middle School Parent Teacher Association](https://cppms.givebacks.com/)
-	- President, [Frederick Carder Elementary Parent Teacher Association](https://carderpta.givebacks.com/) 
-	- Trustee, [Southern Tier Library System](https://www.stls.org/)
-	- Member, [NISO Accessibility Remediation Metadata working group](https://niso.org/standards-committees/arm)
-	- Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
-	- Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
-	- [Institute of Museum and Library Services](http://imls.gov) Grant Review Panel (2004, 2009, 2010)
-	- [NEH](http://neh.gov)/[IMLS](http://imls.gov) Digital Initiatives Grant Review Panel (2007)
-	- NISO Standards Committee. [Z39.87 _Technical Metadata for Still Images_ ](http://www.loc.gov/standards/mix/)(2004-2005)
-	- [Museum Computer Network](http://mcn.edu/) (Board Member 2004-2010)
+- President, [Corning-Painted Post Middle School Parent Teacher Association](https://cppms.givebacks.com/)
+- President, [Frederick Carder Elementary Parent Teacher Association](https://carderpta.givebacks.com/) 
+- Trustee, [Southern Tier Library System](https://www.stls.org/)
+- Member, [NISO Accessibility Remediation Metadata working group](https://niso.org/standards-committees/arm)
+- Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
+- Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
+- [Institute of Museum and Library Services](http://imls.gov) Grant Review Panel (2004, 2009, 2010)
+- [NEH](http://neh.gov)/[IMLS](http://imls.gov) Digital Initiatives Grant Review Panel (2007)
+- NISO Standards Committee. [Z39.87 _Technical Metadata for Still Images_ ](http://www.loc.gov/standards/mix/)(2004-2005)
+- [Museum Computer Network](http://mcn.edu/) (Board Member 2004-2010)
 
 ## Education
 PhD, Library and Information Science, University of Illinois at Urbana-Champaign
