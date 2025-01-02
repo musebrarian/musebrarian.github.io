@@ -31,11 +31,13 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-   - icon:  bluesky
-     url:   https://bsky.app/profile/urbanr-oclc.bsky.social
-     desc: Follow me on Bluesky
-     share_url: https://bsky.app/intent/compose
-     share_link: ?text=
+
+  - icon:	bluesky
+    url:	https://bsky.app/profile/urbanr-oclc.bsky.social
+    desc: Connect with me Bluesky
+    share_url: https://bsky.app/intent/compose
+    share_link: ?text=
+#    share_link: "&amp;u="
 
 #  - icon:	twitter
 #    url:	https://twitter.com/musebrarian
