@@ -9,27 +9,28 @@ http://richardjurban.net
 
 
 ## Professional Experience
-Digital Asset Manager & Strategist, [Corning Museum of Glass](http://www.cmog.org) December 2016-present
+Senior Program & Engagement Officer, [OCLC Research Library Partnership](https://www.oclc.org/research/partnership.html), 2022 - present
+
+Digital Asset Manager & Strategist, [Corning Museum of Glass](http://www.cmog.org), 2016 - 2022
 
 Assistant Professor, Florida State University, December 2012–2016
 
-Graduate Research Assistant.  IMLS Digital Collections and Content Project, September 2007 – 2009
+Graduate Research Assistant.  IMLS Digital Collections and Content Project, 2007 – 2009
 
-Project Coordinator, [Metadata for You & Me: A Training Program for Shareable Metadata](http://www.dlib.indiana.edu/projects/mym/), University of Illinois Library, September 2006- February 2009
+Project Coordinator, [Metadata for You & Me: A Training Program for Shareable Metadata](http://www.dlib.indiana.edu/projects/mym/), University of Illinois Library, 2006 - 2009
 
-Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, October 2005 – August 2006
+Graduate Assistant, Illinois Digitization Institute, University of Illinois Library, 2005 – 2006
 
-Graduate Research Assistant, [ECHO Depository Project](http://www.ndiipp.illinois.edu/), University of Illinois at Urbana-Champaign, June 2005-August 2006
+Graduate Research Assistant, [ECHO Depository Project](http://www.ndiipp.illinois.edu/), University of Illinois at Urbana-Champaign, 2005 - 2006
 
-Operations Coordinator, [Collaborative Digitization Program](https://web.archive.org/web/20060813040240/http://www.cdpheritage.org/index.cfm), Denver, CO, March 2002-June 2005
+Operations Coordinator, [Collaborative Digitization Program](https://web.archive.org/web/20060813040240/http://www.cdpheritage.org/index.cfm), Denver, CO, 2002 - 2005
 
-Web Site Coordinator, [Historical Society of Pennsylvania](http://hsp.org), Philadelphia, PA, March 2000- March 2002
+Web Site Coordinator, [Historical Society of Pennsylvania](http://hsp.org), Philadelphia, PA, 2000 - 2002
 
-Assistant Curator, [Historical Society of Delaware](http://dehistory.org), Wilmington, DE, May 1997- March 2000
+Assistant Curator, [Historical Society of Delaware](http://dehistory.org), Wilmington, DE, 1997 - 2000
 
-Library Technician, [Smithsonian Institution Libraries](http://sil.si.edu), Washington, D.C. , November 1993 – June 1995 
+Library Technician, [Smithsonian Institution Libraries](http://sil.si.edu), Washington, D.C., 1993 – 1995 
 
-[Junior Fellow, Library of Congress](http://www.loc.gov/hr/jrfellows/), Manuscripts Division, Washington, D.C., June 1993 – August 1993
 
 ## Selected Publications
 **Urban, R. J.** (2016). Collections Cubed: Into the Third Dimension.  Museums and the Web 2016, Museums and the Web.  [Paper](http://mw2016.museumsandtheweb.com/paper/collections-cubed-into-the-third-dimension/) \| [Slides](http://www.slideshare.net/musebrarian/collections-cubed-into-the-third-dimension)
@@ -54,36 +55,29 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 ## Selected Teaching
 
-### Florida State University, School of Information (2012 – present)
+### University of Illinois, School of Information Sciences
+- IS426 Museum Informatics
 
- – [LIS4351 User Experience Design (2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis4351-ux/)
+### Florida State University, School of Information
 
- – [LIS5275 Usability Analysis (2014 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis-5275/)
-
- – [LIS5590 Museum Informatics (2012 – 2015)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5590/)
-
- – [LIS5703 Information Organization (2012, 2014, 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5703/)
-
-– [LIS5786 Information Architecture (2013 – 2016)](http://chi.cci.fsu.edu/person/rurban/teaching/lis5786-information-architecture/)
+ – LIS4351 User Experience Design
+ – LIS5275 Usability Analysis
+ – LIS5590 Museum Informatic 
+ – LIS5703 Information Organization 
+ – LIS5786 Information Architecture 
 
 ## Community Collaborations
-Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
 
-Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
-
-[Institute of Museum and Library Services](http://imls.gov) Grant Review Panel (2004, 2009, 2010)
-
-[NEH](http://neh.gov)/[IMLS](http://imls.gov) Digital Initiatives Grant Review Panel (2007)
-
-NISO Standards Committee. [Z39.87 _Technical Metadata for Still Images_ ](http://www.loc.gov/standards/mix/)(2004-2005)
-
-[Museum Computer Network](http://mcn.edu/) (Board Member 2004-2010)
+- Member, [NISO Accessibility Remediation Metadata working group](https://niso.org/standards-committees/arm)
+- Member, International Standardized Rights Statements Working Group (2014-2016) [http://rightsstatements.org](http://rightsstatements.org)
+- Consultant, Digital Public Library of America, [DPLA Metadata Application Profile 3.0](https://dp.la/info/developers/map/) (2013)
+- [Institute of Museum and Library Services](http://imls.gov) Grant Review Panel (2004, 2009, 2010)
+- [NEH](http://neh.gov)/[IMLS](http://imls.gov) Digital Initiatives Grant Review Panel (2007)
+- NISO Standards Committee. [Z39.87 _Technical Metadata for Still Images_ ](http://www.loc.gov/standards/mix/)(2004-2005)
+- [Museum Computer Network](http://mcn.edu/) (Board Member 2004-2010)
 
 ## Education
-PhD, Library and Information Science, University of Illinois at Urbana-Champaign, May 2012
-
-MS Library and Information Science, University of Illinois at Urbana-Champaign, May 2006
-
-MA History with Certificate in Museum Studies, University of Delaware, May 1997
-
-BA History with Honors, Pennsylvania State University, May 1993
+- PhD, Library and Information Science, University of Illinois at Urbana-Champaign
+- MS Library and Information Science, University of Illinois at Urbana-Champaign
+- MA History with Certificate in Museum Studies, University of Delaware
+- BA History with Honors, Pennsylvania State University
