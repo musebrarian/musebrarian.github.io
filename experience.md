@@ -63,9 +63,9 @@ Bailey-Hainer, B. & **Urban, R.** (2004). The Colorado Digitization Program: a c
 
 - LIS4351 User Experience Design
 - LIS5275 Usability Analysis
-- LIS5590 Museum Informatic 
-- LIS5703 Information Organization 
-- LIS5786 Information Architecture 
+- LIS5590 Museum Informatic
+- LIS5703 Information Organization
+- LIS5786 Information Architecture
 
 ## Community Collaborations
 - President, [Corning-Painted Post Middle School Parent Teacher Association](https://cppms.givebacks.com/)
