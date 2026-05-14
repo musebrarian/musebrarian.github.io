@@ -22,7 +22,7 @@ title: Richard J. Urban
 email: richardjurban@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Richard J. Urban
-baseurl: "https://www.richardjurban.net" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.richardjurban.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  musebrarian
