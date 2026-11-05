@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Experience](/experience) | [LinkedIn](https://www.linkedin.com/in/richardurban/) | [Full CV (PDF)](https://www.dropbox.com/scl/fi/kl4zn6c8m5vsbc38egbbk/rjurban_CV_2026.pdf?rlkey=zybx130ysmlf13drn9j4jevh8&st=m9w93c5j&dl=0)
+[Experience](/experience) | [LinkedIn](https://www.linkedin.com/in/richardurban/) | [Full CV (PDF)](https://www.dropbox.com/scl/fi/srfgbvik0mk5kuk8in1jg/rjurban_CV_2026_confidential.pdf?rlkey=nbszq9qoq2rpj8qcz9m9xtmc5&st=rhbrpmix&dl=0)
 
 # Rebooting... 
 
